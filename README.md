@@ -1,5 +1,7 @@
 # Kelvin Weather
 
+✨ Exercice made during CodeCademy studies + learning technical English for Technology ✨
+
 Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.<br>
 Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin.<br>
 With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fahrenheit.
