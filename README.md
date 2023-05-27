@@ -23,3 +23,5 @@ console.log(`The temperature is ${newton} degrees in the Newton Scale`)
 
 console.log(`The temperature is ${celsius} degrees Celsius`)
 ```
+
+#### Funny and interesting way to practice JavaScript with tempeture
