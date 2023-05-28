@@ -9,7 +9,7 @@ The user will be able to input a question, then our program will output a random
 // empty string in the user name and question
 let userName ='';
 const userQuestion = '';
-// random number with Math.random(), however it gives a float number. To get a integer number, get round it with Math.floor()
+// random number with Math.random(), however it gives a float number. To get a integer number, make it round with Math.floor()
 let randomNumber = Math.floor(Math.random() * 8);
 //this variable will have the answers of the magical eight ball
 let eightBall = '';
