@@ -46,3 +46,10 @@ userName ? console.log(`Hello, ${userName}!`) :  console.log("Hello!");
 console.log(`Your question is ${userQuestion}`);
 console.log(`Your answer is ${eightBall}`);
 ```
+
+#### Output
+```
+Hello, Erica!
+Your question is Will I be rich?
+Answer: Signs point to yes
+```
