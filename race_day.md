@@ -23,7 +23,7 @@ Start time:
 Code:
 ```js
 let registeredEarly = true;
-let age = 18;
+let age = 22;
 
 let raceNumber = Math.floor(Math.random() * 1000);
 
