@@ -5,3 +5,4 @@ Nesse repositório você encontrará:
 - Exercício: Qual é a sua idade em idade de cachorro? 
 - Exercício: Teste a sorte com a bola mágica
 - Exercício: Número e hora da sua corrida.
+- Exercício: Pedra, papel e tesoura.
