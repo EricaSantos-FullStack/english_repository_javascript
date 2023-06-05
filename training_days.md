@@ -8,10 +8,11 @@ They know this can be troublesome as their service evolves. In this project you 
 
 #### My refactored code:
 ```js
-// variable name was in a block scope. I took it of to the global scope.
+// variable name was in a block scope. I took it off to the global scope.
 const name = 'Nala';
 
-// const random was too loose. I made it local, so everytime I call getRandEvent() it gives me different output no matter person I choose.
+// const random was too loose. I made it local, so everytime I call getRandEvent() it gives me different output no matter
+// person I choose.
 const getRandEvent = () => {
   const random = Math.floor(Math.random() * 3);
   if (random === 0) {
