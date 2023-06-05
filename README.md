@@ -11,3 +11,4 @@ Nesse repositório você encontrará:
 - Exercício: Número e hora da sua corrida.
 - Exercício: Pedra, papel e tesoura.
 - Exercício: Será que você dormiu o suficiente esta semana? 
+- Exercício: Dias de treinamento [função: refatoração - estudo de escopos de cada variável]
